@@ -1,2 +1,2 @@
 # MultiB
-Local DoS
+Local memory flooding
